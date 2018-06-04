@@ -194,6 +194,5 @@ local.properties
 # Code Recommenders
 .recommenders/
 
-/dist/
 /docs/
 _site/
